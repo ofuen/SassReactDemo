@@ -6,6 +6,9 @@
   "dependencies": {
     "bulma": "^0.7.5",
     "gh-pages": "^2.0.1",
+    "handlebars": "^4.1.2",
+    "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0",
     "node-sass": "^4.12.0",
     "querystringify": "^2.1.1",
     "react": "^16.8.6",
