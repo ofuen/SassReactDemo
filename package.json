@@ -7,7 +7,7 @@
     "bulma": "^0.8.0",
     "eslint-utils": "^1.4.3",
     "gh-pages": "^2.0.1",
-    "handlebars": "^4.5.1",
+    "handlebars": "^4.7.7",
     "lodash": "^4.17.19",
     "lodash.template": "^4.5.0",
     "mixin-deep": "^2.0.1",
